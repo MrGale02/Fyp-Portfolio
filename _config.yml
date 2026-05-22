@@ -1,0 +1,14 @@
+# GitHub Pages Configuration for Fyp-Portfolio
+
+theme: jekyll-theme-minimal
+title: Relay Embedded Fault Classification with Deep Learning
+description: FYP Portfolio - E20019
+show_downloads: true
+
+# Navigation
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
